@@ -7,7 +7,6 @@ I'm a mobile developer, who loves to create native mobile applications using the
 * Android Application Development [Java]
 * Firebase, Google Cloud.
 * Google APIS integration [Google Places, Google Maps, Volley]
-* Agile Development
 * Version Control [GIT]
 * Object Oriented Programming
 
