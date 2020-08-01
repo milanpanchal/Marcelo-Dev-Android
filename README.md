@@ -26,3 +26,14 @@ I'm a mobile developer, who loves to create native mobile applications using the
 
 
 ![Marcelo Souza GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcelo-Dev-Android&show_icons=true)
+
+ <br><br>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/Marcelo-Dev-Android/Marcelo-Dev-Android?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/Marcelo-Dev-Android?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/repos/Marcelo-Dev-Android?style=flat-square&color=black&logo=github">
+  </a>
