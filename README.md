@@ -29,11 +29,11 @@ I'm a mobile developer, who loves to create native mobile applications using the
 
  <br><br>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/Marcelo-Dev-Android/Marcelo-Dev-Android?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/Marcelo-Dev-Android/Marcelo-Dev-Android?style=flat-square&color=blue&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/Marcelo-Dev-Android?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/Marcelo-Dev-Android?style=flat-square&color=blue&logo=github">
   </a>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/Marcelo-Dev-Android?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/Marcelo-Dev-Android?style=flat-square&color=blue&logo=github">
   </a>
